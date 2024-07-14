@@ -1,0 +1,4 @@
+# Base #
+base/*
+!base/source.txt
+.history

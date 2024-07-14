@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Audio tag</title>
+  <link rel="icon" href="https://materializecss.com/images/favicon/apple-touch-icon-152x152.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="player">
+    <h4><i class="material-icons">equalizer</i>RocketCast</h4>
+    <div class="card">
+      <div class="card-image">
+        <span class="btn-floating btn-large halfway-fab"><i id="play-pause" class="material-icons">play_arrow</i></span>
+      </div>
+      <div class="card-content">
+        <h5>Title</h5>
+        <p class="artist"></p>
+        <div class="row valign-wrapper">
+          <div id="current-duration" class="col s2">00:00</div>
+          <div class="col s6 range-filter valign-wrapper">
+            <input id="seekbar" type="range" min="0" max="0" step="1" />
+          </div>
+          <div id="total-duration" class="col s2">00:00</div>
+          <div>
+            <i id="vol-mute" class="material-icons">volume_up</i>
+          </div>
+          <div class="col s3 range-filter valign-wrapper">
+            <input id="vol-control" type="range" min="0" max="100" step="1" />
+          </div>
+        </div>
+        <div class="change-tracks">
+          <a href="#" class="btn-floating btn-large" id="previous-track">
+            <i class="material-icons">skip_previous</i>
+          </a>
+          <a href="#" class="btn-floating btn-large" id="next-track">
+            <i class="material-icons">skip_next</i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+  <!-- live server -->
+  <script src="index.js" type="module"></script>
+</body>
+
+</html>

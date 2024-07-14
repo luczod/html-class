@@ -1,0 +1,2 @@
+https://github.com/rocketseat-content/youtube-html-js-audio-player
+https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript
