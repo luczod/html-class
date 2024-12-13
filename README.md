@@ -1,4 +1,4 @@
-###Html
+### Html
 
 <p align="center">
 <table>
@@ -33,19 +33,19 @@
             <td>01</td>
             <td><a href="ReactiveWebStream">paint</a></td>
             <td align="center">
-            <a href="ReactiveWebStream"><img width="300px" src="ReactiveWebStream/.github/preview.jpg" /></a></td>
+            <a href="ReactiveWebStream"><img width="300px" src="ReactiveWebStream/.github/preview.png" /></a></td>
         </tr>
          <tr>
             <td>02</td>
             <td><a href="02">Conversor de moedas</a></td>
             <td align="center">
-            <a href="apexcharts"><img width="300px" src="apexcharts/.github/preview.jpg" /></a></td>
+            <a href="apexcharts"><img width="300px" src="apexcharts/.github/preview.png" /></a></td>
         </tr>
          <tr>
             <td>03</td>
             <td><a href="html-js-audio">Music Player</a></td>
             <td align="center">
-            <a href="html-js-audio"><img width="300px" src="html-js-audio/.github/preview.jpg" /></a></td>
+            <a href="html-js-audio"><img width="300px" src="html-js-audio/.github/preview.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
