@@ -35,17 +35,23 @@
             <td align="center">
             <a href="ReactiveWebStream"><img width="300px" src="ReactiveWebStream/.github/preview.png" /></a></td>
         </tr>
-         <tr>
+        <tr>
             <td>02</td>
             <td><a href="02">Conversor de moedas</a></td>
             <td align="center">
             <a href="apexcharts"><img width="300px" src="apexcharts/.github/preview.png" /></a></td>
         </tr>
-         <tr>
+        <tr>
             <td>03</td>
             <td><a href="html-js-audio">Music Player</a></td>
             <td align="center">
             <a href="html-js-audio"><img width="300px" src="html-js-audio/.github/preview.png" /></a></td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td><a href="filter-and-scrolling">filter and scrolling</a></td>
+            <td align="center">
+            <a href="filter-and-scrolling"><img width="300px" src="filter-and-scrolling/.github/preview.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
